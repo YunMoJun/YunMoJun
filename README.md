@@ -162,7 +162,5 @@ PC：
   [![比特币](https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=bitcoinsv&logoColor=white)](3AMfaVEAh4bdmp8dq6V6YaQD2xCa5Q5Eyd) 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guchenlong612) 
 
-## 😋Mario 
-![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
 
 
