@@ -157,9 +157,9 @@ PC：
 
 ## 💰You can help me by donating
 
-  [![支付宝](https://img.shields.io/badge/支付宝-1677FF?style=for-the-badge&logo=alipay&logoColor=white)](https://github.com/YunMoJun/YunMoJun/blob/main/picture/Alipay.jpg)
-  [![微信](https://img.shields.io/badge/微信-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/YunMoJun/YunMoJun/blob/main/picture/Alipay.jpg)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guchenlong612) 
+  [![支付宝](https://img.shields.io/badge/支付宝-1677FF?style=for-the-badge&logo=alipay&logoColor=white)](https://raw.githubusercontent.com/YunMoJun/YunMoJun/refs/heads/main/picture/Alipay.jpg)
+  [![微信](https://img.shields.io/badge/微信-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/YunMoJun/YunMoJun/refs/heads/main/picture/Wechat.jpg)
+  [![比特币](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guchenlong612) 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guchenlong612) 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guchenlong612) 
 
