@@ -1,23 +1,18 @@
 
-# Hi, I'm [YunMoJun](https://yunmojun.com/) 👋
+# Hi, I'm [云墨君](https://yunmojun.cn/) 👋
 
 [![img](https://github.com/YunMoJun/YunMoJun/raw/main/picture/1.jpg)](https://space.bilibili.com/38990272)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=YunMoJun;云墨君;&center=true&size=30">
-  </a>
-</h1>
-
-## 🔐Me：
+## 🔐This Is Me：
 
 ### Platforms
 
-[![](https://img.shields.io/badge/macOS-Ventura-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/Mac-Mac Mini M4-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/mac/)
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
-[![](https://img.shields.io/badge/iPhone-15%20Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/iPhone-15%20Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone/)
+[![](https://img.shields.io/badge/Android-XiaoMi 14%20Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.mi.com/xiaomi-14/)
 
 ### Tools
 
