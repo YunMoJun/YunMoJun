@@ -9,10 +9,10 @@
 
 ### Platforms
 
-[![](https://img.shields.io/badge/Mac-Mac Mini M4-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/mac/)
+[![](https://img.shields.io/badge/Mac-Mac%20Mini%20M4-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/mac/)
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
 [![](https://img.shields.io/badge/iPhone-15%20Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone/)
-[![](https://img.shields.io/badge/Android-XiaoMi 14%20Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.mi.com/xiaomi-14/)
+[![](https://img.shields.io/badge/Android-XiaoMi%2014%20Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.mi.com/xiaomi-14/)
 
 ### Tools
 
