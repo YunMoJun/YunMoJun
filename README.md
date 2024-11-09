@@ -12,13 +12,14 @@
 [![](https://img.shields.io/badge/Mac-Mac%20Mini%20M4-292e33?style=flat-square&logo=macOS&logoColor=ffffff)](https://www.apple.com.cn/mac/)
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
 [![](https://img.shields.io/badge/iPhone-15%20Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone/)
-[![](https://img.shields.io/badge/Android-XiaoMi%2014%20Pro%20Max-999999?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi-14/)
+[![](https://img.shields.io/badge/Android-XiaoMi%2014-999999?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi-14/)
 
 ### Tools
 
 [![](https://img.shields.io/badge/IDEA-Java-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/idea/)
-[![](https://img.shields.io/badge/WebStorm-前端-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/webstorm/)
 [![](https://img.shields.io/badge/PyCharm-Python-21d789?style=flat-square&logo=PyCharm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/pyCharm/)
+[![](https://img.shields.io/badge/WebStorm-前端-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/webstorm/)
+[![](https://img.shields.io/badge/MySQL-数据库-4479A1?style=flat-square&logo=mysql&labelColor=ffffff&logoColor=000000)](https://www.mysql.com/cn/)
 [![](https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Chrome-谷歌-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4)](https://www.google.com/chrome/)
 [![](https://img.shields.io/badge/Edge-微软-0078D7?style=flat-square&logo=Microsoft%20Edge&labelColor=ffffff&logoColor=0078D7)](https://www.microsoft.com/zh-cn/edge?form=MA13FJ)
@@ -156,7 +157,9 @@ PC：
 
 ## 💰You can help me by donating
 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/erbankuglobal) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/erbanku)
+  [![Patreon](https://img.shields.io/badge/支付宝-1677FF?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/erbanku)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guchenlong612) 
+
 ## 😋Mario 
 ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
 
